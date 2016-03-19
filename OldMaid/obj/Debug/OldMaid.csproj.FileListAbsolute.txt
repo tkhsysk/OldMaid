@@ -1,0 +1,5 @@
+c:\users\yosuke\documents\visual studio 2015\Projects\OldMaid\OldMaid\obj\Debug\OldMaid.csprojResolveAssemblyReference.cache
+c:\users\yosuke\documents\visual studio 2015\Projects\OldMaid\OldMaid\bin\Debug\OldMaid.exe
+c:\users\yosuke\documents\visual studio 2015\Projects\OldMaid\OldMaid\bin\Debug\OldMaid.pdb
+c:\users\yosuke\documents\visual studio 2015\Projects\OldMaid\OldMaid\obj\Debug\OldMaid.exe
+c:\users\yosuke\documents\visual studio 2015\Projects\OldMaid\OldMaid\obj\Debug\OldMaid.pdb
